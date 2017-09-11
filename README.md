@@ -49,7 +49,7 @@ import { FootballDataService } from 'football-data';
 
 We use [SemVer](http://semver.org/) for versioning.
 
-###API
+### API
 
 ```
 getLeagues(season?)
